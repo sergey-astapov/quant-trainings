@@ -1,8 +1,10 @@
 **/.idea
+**/.ipynb_checkpoints
 **/.gradle
 **/build
 **/target
 **/*.iml
 **/*.jar
 **/*.log
+**/*.html
 **/.DS_Store
